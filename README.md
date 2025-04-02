@@ -2,6 +2,8 @@
 
 A fun memory card game built with React and Next.js where players test their memory by clicking on Pokemon cards without repeating their choices.
 
+[Play the game here](https://memory-game-toh.vercel.app/)
+
 ## How to Play
 
 1. Cards with different Pokemon will be displayed
@@ -25,8 +27,6 @@ A fun memory card game built with React and Next.js where players test their mem
 - TypeScript
 - Pokemon API
 - CSS Modules
-
-
 
 ## Setup & Installation
 
